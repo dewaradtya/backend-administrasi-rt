@@ -1,3 +1,9 @@
+# PANDUAN INSTALASI APLIKASI RT - ADMINISTRASI IURAN & PENGELUARAN
+
+# CLONE REPOSITORY
+git clone https://github.com/dewaradtya/backend-administrasi-rt
+
+# Masuk ke folder
 cd backend
 
 # Install dependency
